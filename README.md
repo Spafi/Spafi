@@ -51,3 +51,5 @@ Here are some ideas to get you started:
 [![GitHub Spafi](https://img.shields.io/github/followers/spafi?label=follow&style=social)](https://github.com/Spafi)
 <a href="https://www.facebook.com/spafiul/"><img style="margin: 10px" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" alt="Facebook" height="25"/></a>
 <a href="https://www.instagram.com/s.p.af/"><img style="margin: 10px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram" height="25"/></a>
+
+  ![visitors](https://visitor-badge.glitch.me/badge?page_id=Spafi.Spafi)
