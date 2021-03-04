@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Spafi&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/Spafi/github-readme-stats)
 
+[![Spafi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Spafi)](https://github.com/Spafi/github-readme-stats)
 #### 🛠 — Skills
  
 <div align="">  
