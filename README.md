@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 [![Spafi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Spafi)](https://github.com/Spafi/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Spafi)](https://github.com/Spafi/github-readme-stats)
+
+<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?Spafi" frameborder="0"></iframe>
 #### 🛠 — Skills
  
 <div align="">  
