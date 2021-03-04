@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Spafi)](https://github.com/Spafi/github-readme-stats)
 -->
 
-<h2 align="center">🛠 — Skills</div>
+<h2 align="center">🛠 — Skills</h2>
  
 <div align="center">  
 <img style="margin: 10px" src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" height="25"/>
