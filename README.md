@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Spafi)](https://github.com/Spafi/github-readme-stats)
 -->
 
-#### 🛠 — Skills
+<h2 align="center">🛠 — Skills</div>
  
 <div align="center">  
 <img style="margin: 10px" src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" height="25"/>
@@ -44,11 +44,10 @@ Here are some ideas to get you started:
  
 </div>  
 
-### 📫 How to reach me:
-<div align="center">
+<h2 align="center"> 📫 How to reach me: </div>
+
 [![Twitter: Spafi](https://img.shields.io/twitter/follow/CristianSpafiu?style=social)](https://twitter.com/CristianSpafiu)
 [![Linkedin: spaf](https://img.shields.io/badge/-spaf-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/spaf/)](https://www.linkedin.com/in/spaf/)
 [![GitHub Spafi](https://img.shields.io/github/followers/spafi?label=follow&style=social)](https://github.com/Spafi)
 <a href="https://www.facebook.com/spafiul/"><img style="margin: 10px" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" alt="Facebook" height="25"/></a>
 <a href="https://www.instagram.com/s.p.af/"><img style="margin: 10px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram" height="25"/></a>
-</div>
