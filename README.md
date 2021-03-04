@@ -18,9 +18,10 @@ Here are some ideas to get you started:
 
 [![Spafi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Spafi)](https://github.com/Spafi/github-readme-stats)
 
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Spafi)](https://github.com/Spafi/github-readme-stats)
+-->
 
-<img width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?Spafi" frameborder="0">
 #### 🛠 — Skills
  
 <div align="">  
@@ -40,9 +41,14 @@ Here are some ideas to get you started:
 <img style="margin: 10px" src="https://img.icons8.com/color/48/000000/office-365.png"  alt="Office" height="25"/>
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg" alt="Flask" height="25"/> 
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/pocoo_jinja/pocoo_jinja-ar21.svg" alt="Jinja" height="25"/>
+ 
 </div>  
 
-
+###📫 How to reach me:
 [![Twitter: Spafi](https://img.shields.io/twitter/follow/CristianSpafiu?style=social)](https://twitter.com/CristianSpafiu)
 [![Linkedin: spaf](https://img.shields.io/badge/-spaf-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/spaf/)](https://www.linkedin.com/in/spaf/)
 [![GitHub Spafi](https://img.shields.io/github/followers/spafi?label=follow&style=social)](https://github.com/Spafi)
+
+<br>
+<a href="https://www.facebook.com/spafiul/"><img style="margin: 10px" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" alt="Facebook" height="25"/></a>
+<a href="https://www.instagram.com/s.p.af/"><img style="margin: 10px" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" alt="Instagram" height="25"/></a>
