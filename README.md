@@ -28,18 +28,13 @@ Here are some ideas to get you started:
 <img style="margin: 10px" src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" height="25" />  
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="25" />  
 <img style="margin: 10px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" height="25"/>
-<img style="margin: 10px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" height="25"/>
 <img style="margin: 10px" src="https://img.icons8.com/color/48/000000/python.png" alt="Java" height="25"/>
 <img style="margin: 10px" src="https://img.icons8.com/plasticine/100/000000/bash.png" alt="Bash" height="25"/>
 <img style="margin: 10px" src="https://img.icons8.com/color/48/000000/adobe-photoshop.png" alt="Photoshop" height="25"/>
 <img style="margin: 10px" src="https://img.icons8.com/fluent/48/000000/blender-3d.png" alt="Blender" height="25"/>
 <img style="margin: 10px" src="https://img.icons8.com/color/48/000000/office-365.png"  alt="Office" height="25"/>
-<img style="margin: 10px" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/pocoo_flask/pocoo_flask-ar21.svg" alt="Flask" height="25"/> 
- <img style="margin: 10px" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/pocoo_jinja/pocoo_jinja-ar21.svg" alt="Jinja" height="25"/> 
- <img style="margin: 10px" src="" alt="Jinja" height="25"/> 
- 
- 
-                                                                                                                     
+<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg" alt="Flask" height="25"/> 
+<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/pocoo_jinja/pocoo_jinja-ar21.svg" alt="Jinja" height="25"/>
 </div>  
 
 
