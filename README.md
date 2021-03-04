@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Spafi)](https://github.com/Spafi/github-readme-stats)
 
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?Spafi" frameborder="0"></iframe>
+<img width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?Spafi" frameborder="0">
 #### 🛠 — Skills
  
 <div align="">  
