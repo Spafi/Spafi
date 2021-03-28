@@ -14,8 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <script src="https://embed.github.com/view/3d/Spafi/Spafi/main/spafi-2020.stl">
+ 
 </script>
+
 
 [![Spafi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Spafi)](https://github.com/Spafi/github-readme-stats)
 
