@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   <td align="center">
     <img src="https://github.com/Spafi/Spafi/blob/main/metrics.plugin.isocalendar.svg">
     <details><summary>Full year version</summary>
-      <img src="https://github.com/lowlighter/lowlighter/blob/master/metrics.plugin.isocalendar.fullyear.svg">
+      <img src="https://github.com/Spafi/Spafi/blob/master/metrics.plugin.isocalendar.fullyear.svg">
     </details>
     <img width="900" height="1" alt="">
   </td>
