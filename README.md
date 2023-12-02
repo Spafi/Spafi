@@ -1,54 +1,96 @@
-<h2>Hi there! I'm Spaf 👋</h2>
+<!-- Intro  -->
+<h3 align="center">
+        <samp> Hey There!, I am
+                <b>Spaf</b>
+        </samp>
+</h3>
 
-<!--
-**Spafi/Spafi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"> 
+    I am a full stack developer from <b>Romania</b>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-<!--
-[![Spafi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Spafi)](https://github.com/Spafi/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Spafi)](https://github.com/Spafi/github-readme-stats)
--->
-
-<h2 align="center">🛠 — Skills</h2>
+<p align="center">
  
-<div align="center">  
-<img style="margin: 10px" src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" height="25"/>
-<img style="margin: 10px" src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" height="25" />  
-<img style="margin: 10px" src="https://img.icons8.com/nolan/64/html-5.png" alt="HTML5" height="25" />  
-<img style="margin: 10px" src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" height="25" />  
-<img style="margin: 10px" src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" height="25" />  
-<img style="margin: 10px" src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" height="25" />  
-<img style="margin: 10px" src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" height="25" />  
-<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="25" />  
-<img style="margin: 10px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" height="25"/>
-<img style="margin: 10px" src="https://img.icons8.com/color/48/000000/python.png" alt="Java" height="25"/>
-<img style="margin: 10px" src="https://img.icons8.com/plasticine/100/000000/bash.png" alt="Bash" height="25"/>
-<img style="margin: 10px" src="https://img.icons8.com/color/48/000000/adobe-photoshop.png" alt="Photoshop" height="25"/>
-<img style="margin: 10px" src="https://img.icons8.com/fluent/48/000000/blender-3d.png" alt="Blender" height="25"/>
-<img style="margin: 10px" src="https://img.icons8.com/color/48/000000/office-365.png"  alt="Office" height="25"/>
-<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg" alt="Flask" height="25"/> 
-<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/pocoo_jinja/pocoo_jinja-ar21.svg" alt="Jinja" height="25"/>
+ <a href="https://linkedin.com/in/spaf" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Spaf"/>
+ </a>
  
-</div>  
+ <a href="https://twitter.com/CristianSpafiu" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Spaf" />
+ </a>
+ 
+ <a href="https://instagram.com/s.p.af" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Spaf" />
+ </a> 
+ 
+ <a href="https://facebook.com/spafiul" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="Spaf"  />
+ 
+ </a> 
+</p>
+<br />
 
-<h2 align="center"> 📫 How to reach me: </div>
+<!-- About Section -->
+<!-- # About me
+ 
+<p>
+  
+ 💻 &emsp; <br/><br/>
+ ❤️ &emsp; <br/><br/>
 
-[![Twitter: Spafi](https://img.shields.io/twitter/follow/CristianSpafiu?style=social)](https://twitter.com/CristianSpafiu)
-[![Linkedin: spaf](https://img.shields.io/badge/-spaf-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/spaf/)](https://www.linkedin.com/in/spaf/)
-[![GitHub Spafi](https://img.shields.io/github/followers/spafi?label=follow&style=social)](https://github.com/Spafi)
-<a href="https://www.facebook.com/spafiul/"><img style="margin: 10px" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" alt="Facebook" height="25"/></a>
-<a href="https://www.instagram.com/s.p.af/"><img style="margin: 10px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram" height="25"/></a>
+</p>
 
-  ![visitors](https://visitor-badge.glitch.me/badge?page_id=Spafi.Spafi)
+<br/>
+-->
+## Languages & Tools I use
+
+![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
+![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
+![Angular](https://img.shields.io/badge/Angular-FF0000?style=for-the-badge&labelColor=black&logo=angular&logoColor=FF0000)
+![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&labelColor=black&logo=react&logoColor=61DAFB)
+![Nest JS](https://img.shields.io/badge/Nest_JS-E0234E?style=for-the-badge&labelColor=black&logo=nestjs&logoColor=E0234E)
+
+
+![Kotlin](https://img.shields.io/badge/Kotlin-f68f12?style=for-the-badge&labelColor=black&logo=kotlin&logoColor=f68f12)
+![Java](https://img.shields.io/badge/Java-ed272c?style=for-the-badge&labelColor=black&logo=java&logoColor=ed272c)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&labelColor=black&logo=spring&logoColor=6DB33F)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&labelColor=black&logo=apache%20kafka&logoColor=231F20)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&labelColor=black&logo=graphql&logoColor=E10098)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=4169E1)
+![Oracle DB](https://img.shields.io/badge/Oracle%20DB-F80000?style=for-the-badge&labelColor=black&logo=oracle&logoColor=F80000)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+<br/>
+<hr/>
+<br/>
+
+<div align="center">
+    
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Spafi&theme=radical&date_format=j%20M%5B%20Y%5D&card_width=700)](https://git.io/streak-stats)
+</p>
+
+
+<div align="center">
+    
+![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Spafi&theme=radical)
+</p>
+
+
+<a href="https://github.com/Spafi">
+     <img alt="Spaf's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Spafi&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
+</a>
+ 
+  <a href="https://github.com/Spafi">
+  <img alt="Spaf's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Spafi&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
+  </a>
+
+
+
+![Spaf's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Spafi&custom_title=Spaf's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
